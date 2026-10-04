@@ -1,0 +1,1 @@
+print("Lab Asset Management System - Python setup successful!")
